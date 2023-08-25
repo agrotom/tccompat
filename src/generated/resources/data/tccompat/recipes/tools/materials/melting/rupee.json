@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:material_melting",
+  "conditions": [
+    {
+      "values": [
+        {
+          "prop": "force_integration_materials",
+          "type": "tconstruct:config"
+        },
+        {
+          "modid": "divinerpg",
+          "type": "forge:mod_loaded"
+        }
+      ],
+      "type": "forge:or"
+    }
+  ],
+  "input": "tccompat:rupee",
+  "temperature": 700,
+  "result": {
+    "fluid": "tccompat:molten_rupee",
+    "amount": 144
+  }
+}

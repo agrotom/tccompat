@@ -1,0 +1,24 @@
+{
+  "type": "tconstruct:material",
+  "conditions": [
+    {
+      "values": [
+        {
+          "prop": "force_integration_materials",
+          "type": "tconstruct:config"
+        },
+        {
+          "modid": "divinerpg",
+          "type": "forge:mod_loaded"
+        }
+      ],
+      "type": "forge:or"
+    }
+  ],
+  "ingredient": {
+    "item": "divinerpg:rupee_ingot"
+  },
+  "value": 1,
+  "needed": 1,
+  "material": "tccompat:rupee"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/rupee",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:rods/rupee"
+  },
+  "result": {
+    "fluid": "tccompat:molten_rupee",
+    "amount": 72
+  },
+  "temperature": 700,
+  "time": 11
+}

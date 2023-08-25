@@ -1,0 +1,22 @@
+{  
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "tccompat:molten_realmite",
+    "amount": 1296
+  },
+  "result": "divinerpg:realmite_block",
+  "cooling_time": 200
+}

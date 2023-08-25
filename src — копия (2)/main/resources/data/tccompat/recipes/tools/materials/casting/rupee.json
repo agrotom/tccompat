@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "tccompat:molten_rupee",
+    "amount": 144
+  },
+  "temperature": 1000,
+  "output": "tccompat:rupee",
+  "_comment": "AUTO GENERATED"
+}

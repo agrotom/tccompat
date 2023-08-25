@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "tccompat:molten_rupee",
+      "required": false
+    },
+    {
+      "id": "tccompat:flowing_molten_rupee",
+      "required": false
+    }
+  ]
+}

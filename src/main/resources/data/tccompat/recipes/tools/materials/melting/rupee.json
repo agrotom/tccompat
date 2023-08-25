@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "tccompat:rupee",
+  "temperature": 1000,
+  "result": {
+    "fluid": "tccompat:molten_rupee",
+    "amount": 144
+  },
+  "_comment": "AUTO GENERATED"
+}

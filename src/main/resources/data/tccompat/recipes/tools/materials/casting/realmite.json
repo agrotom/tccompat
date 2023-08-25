@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "tccompat:molten_realmite",
+    "amount": 144
+  },
+  "temperature": 1000,
+  "output": "tccompat:realmite"
+}

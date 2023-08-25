@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:realmite_ingot"
+  },
+  "result": {
+    "fluid": "tccompat:molten_realmite",
+    "amount": 144
+  },
+  "temperature": 1000,
+  "time": 75
+}

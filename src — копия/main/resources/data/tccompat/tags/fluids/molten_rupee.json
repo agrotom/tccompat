@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tccompat:molten_rupee",
+    "tccompat:flowing_molten_rupee"
+  ],
+  "_comment": "AUTO GENERATED"
+}

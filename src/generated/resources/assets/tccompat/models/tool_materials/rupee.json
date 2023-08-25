@@ -1,0 +1,32 @@
+{
+  "fallbacks": [
+    "metal"
+  ],
+  "color": "03ADFC",
+  "luminosity": 0,
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:recolor_sprite",
+      "color_mapping": {
+        "type": "tconstruct:grey_to_color",
+        "palette": [
+          {
+            "grey": 100,
+            "color": "00FCAD03"
+          },
+          {
+            "grey": 102,
+            "color": "00FCAD03"
+          }
+        ]
+      }
+    },
+    "supportedStats": [
+      "tconstruct:head",
+      "tconstruct:handle",
+      "tconstruct:extra",
+      "tconstruct:repair_kit"
+    ],
+    "ignoreMaterialStats": false
+  }
+}
